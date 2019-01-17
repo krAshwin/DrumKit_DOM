@@ -1,2 +1,2 @@
 # DrumKit_DOM
-Made a drum kit using DOM
+Fun project - Drum Kit using Data Object Model (DOM).  
